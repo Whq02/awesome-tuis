@@ -176,6 +176,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [LogLens](https://github.com/Caelrith/loglens-core) A structured log viewer and query engine for the terminal.
 - [logradar](https://github.com/nanook72/logradar) A fast Rust TUI for interactive log filtering and highlighting.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
+- [Mercury CLI](https://github.com/Whq02/MercuryCLI) Terminal coding agent for macOS, Linux and Windows with parallel sessions, isolated git worktree crewmates, 22 model providers, LSP, and a DAP debugger
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
